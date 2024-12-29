@@ -2,7 +2,7 @@ import Nav from 'react-bootstrap/Nav';
 
 const NavLinks = ({activeKey, onSelect}) => {
     return (
-        <Nav variant="pills" className="flex-row" activeKey={activeKey} onSelect={onSelect}>
+        <Nav variant="pills" className="flex-row sticky-nav" activeKey={activeKey} onSelect={onSelect}>
             <Nav.Item>
                 <Nav.Link eventKey="research">Research</Nav.Link>
             </Nav.Item>
