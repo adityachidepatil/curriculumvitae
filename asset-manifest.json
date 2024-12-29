@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/curriculumvitae/static/css/main.6922435c.css",
-    "main.js": "/curriculumvitae/static/js/main.fcef41a7.js",
+    "main.css": "/curriculumvitae/static/css/main.b9d0c0ac.css",
+    "main.js": "/curriculumvitae/static/js/main.5a95e379.js",
     "static/js/488.54a9603c.chunk.js": "/curriculumvitae/static/js/488.54a9603c.chunk.js",
     "static/media/sih2_2.png": "/curriculumvitae/static/media/sih2_2.17b5fb1207d7a3b74ea2.png",
     "static/media/msde.png": "/curriculumvitae/static/media/msde.21a755a72ef28907c46a.png",
@@ -19,12 +19,12 @@
     "static/media/strmsn.png": "/curriculumvitae/static/media/strmsn.39c6c6dd323abc50497b.png",
     "static/media/logo.svg": "/curriculumvitae/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/curriculumvitae/index.html",
-    "main.6922435c.css.map": "/curriculumvitae/static/css/main.6922435c.css.map",
-    "main.fcef41a7.js.map": "/curriculumvitae/static/js/main.fcef41a7.js.map",
+    "main.b9d0c0ac.css.map": "/curriculumvitae/static/css/main.b9d0c0ac.css.map",
+    "main.5a95e379.js.map": "/curriculumvitae/static/js/main.5a95e379.js.map",
     "488.54a9603c.chunk.js.map": "/curriculumvitae/static/js/488.54a9603c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6922435c.css",
-    "static/js/main.fcef41a7.js"
+    "static/css/main.b9d0c0ac.css",
+    "static/js/main.5a95e379.js"
   ]
 }
