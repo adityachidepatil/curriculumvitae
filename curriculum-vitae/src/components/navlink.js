@@ -16,6 +16,9 @@ const NavLinks = ({activeKey, onSelect}) => {
                 <Nav.Link eventKey="projects">Projects</Nav.Link>
             </Nav.Item>
             <Nav.Item>
+                <Nav.Link eventKey="academics">Academics</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
                 <Nav.Link eventKey="other">Other</Nav.Link>
             </Nav.Item>
         </Nav>

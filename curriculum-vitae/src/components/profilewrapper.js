@@ -10,11 +10,11 @@ function ProfileHolder() {
         <div className="fakeimg">
           <img src={profileImage} alt="profile" />
         </div>
-        <h4>
+        <p className='name'>
           Aditya <b>Chidepatil</b>
-        </h4>
+        </p>
         <div className="position">
-          <p style={{ margin: 0, fontSize: 16}}>Environmentalist</p>
+          <p>Environmentalist</p>
         </div>
         <ul id="navlist">
           <li>
@@ -65,7 +65,7 @@ function ProfileHolder() {
         </div>
 
         <div className="creds">
-          This website has been designed using <Icon.BootstrapFill className='creds-bi'/> built using <Icon.FiletypeJsx className='creds-bi'/> and deployed using <Icon.Github className='creds-bi'/> by me with <Icon.HeartFill className='creds-bi'/> in 12 hours.
+          This website has been designed using <Icon.BootstrapFill className='creds-bi'/> built using <Icon.FiletypeJsx className='creds-bi'/> and deployed using <Icon.Github className='creds-bi'/> by me with <Icon.HeartFill className='creds-bi'/> in less than 24 hours.
         </div>
       </div>
     </div>

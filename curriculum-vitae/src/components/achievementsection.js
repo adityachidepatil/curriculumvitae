@@ -11,8 +11,7 @@ const AchievementsSection = () => {
             <Carousel data-bs-theme="dark">
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
-                        style={{ width: 550, height: 550 }}
+                        style={{ width: 500, height: 350 }}
                         src={ssc}
                         alt="SmartCom"
                     />
@@ -23,9 +22,8 @@ const AchievementsSection = () => {
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
                         src={iih_1}
-                        style={{ width: 650, height: 650 }}
+                        style={{ width: 350, height: 350 }}
                         alt="Incubate India"
                     />
                     <Carousel.Caption>
@@ -37,20 +35,19 @@ const AchievementsSection = () => {
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
-                        style={{ width: 650, height: 650 }}
+                        style={{ width: 350, height: 350 }}
                         src={sih2_2}
                         alt="SIH 2019"
                     />
                     <Carousel.Caption>
-                        <h5 style={{ background: "white" }}>Deollite Most Innovative Solution Award, Smart India Hackathon 2019</h5>
+                        <h5 style={{ background: "white" }}>Deloitte Most Innovative Solution Award, Smart India Hackathon 2019</h5>
                         <p style={{ background: "white" }}> Awarded 900$ by the Ministry of Micro, Small & Medium Enterprises, Government of India for developing a forecasting tool for MSMEs to optimize agricultural equipment demand</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
-                        style={{ width: 500, height: 500 }}
+                        className="d-block"
+                        style={{ width: 350, height: 350 }}
                         src={sih}
                         alt="SIH 2018"
                     />
