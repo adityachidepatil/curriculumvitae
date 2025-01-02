@@ -1,8 +1,16 @@
 {
   "files": {
-    "main.css": "/curriculumvitae/static/css/main.b9d0c0ac.css",
-    "main.js": "/curriculumvitae/static/js/main.5a95e379.js",
+    "main.css": "/curriculumvitae/static/css/main.cbfbf796.css",
+    "main.js": "/curriculumvitae/static/js/main.991204cf.js",
     "static/js/488.54a9603c.chunk.js": "/curriculumvitae/static/js/488.54a9603c.chunk.js",
+    "static/media/ysg.png": "/curriculumvitae/static/media/ysg.d20e7112577730e6eec9.png",
+    "static/media/background.jpg": "/curriculumvitae/static/media/background.c60041d1e9db3bb30b64.jpg",
+    "static/media/sparrow.png": "/curriculumvitae/static/media/sparrow.39638103055a7a23c70c.png",
+    "static/media/yuv.png": "/curriculumvitae/static/media/yuv.8f84b1468166872eb0fb.png",
+    "static/media/3000.png": "/curriculumvitae/static/media/3000.1b474e64f8ddb9492d0f.png",
+    "static/media/bahu.png": "/curriculumvitae/static/media/bahu.ae47d3baf957febe044d.png",
+    "static/media/veer.png": "/curriculumvitae/static/media/veer.3158e38291fbe1963167.png",
+    "static/media/doggo.png": "/curriculumvitae/static/media/doggo.583a754277f271291ffc.png",
     "static/media/sih2_2.png": "/curriculumvitae/static/media/sih2_2.17b5fb1207d7a3b74ea2.png",
     "static/media/msde.png": "/curriculumvitae/static/media/msde.21a755a72ef28907c46a.png",
     "static/media/bootstrap-icons.woff?": "/curriculumvitae/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
@@ -19,12 +27,12 @@
     "static/media/strmsn.png": "/curriculumvitae/static/media/strmsn.39c6c6dd323abc50497b.png",
     "static/media/logo.svg": "/curriculumvitae/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/curriculumvitae/index.html",
-    "main.b9d0c0ac.css.map": "/curriculumvitae/static/css/main.b9d0c0ac.css.map",
-    "main.5a95e379.js.map": "/curriculumvitae/static/js/main.5a95e379.js.map",
+    "main.cbfbf796.css.map": "/curriculumvitae/static/css/main.cbfbf796.css.map",
+    "main.991204cf.js.map": "/curriculumvitae/static/js/main.991204cf.js.map",
     "488.54a9603c.chunk.js.map": "/curriculumvitae/static/js/488.54a9603c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9d0c0ac.css",
-    "static/js/main.5a95e379.js"
+    "static/css/main.cbfbf796.css",
+    "static/js/main.991204cf.js"
   ]
 }
