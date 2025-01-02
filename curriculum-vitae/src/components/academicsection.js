@@ -37,15 +37,15 @@ const AcademicSection = () => {
                 <h6>CERTIFICATES</h6>
                 <ul>
                     <li>Introduction to Life Cycle Thinking, United Nations Environment Programme (UNEP)
-                        Credential ID: <a href="">le20shjbnc</a></li>
+                        Credential ID: <a href="https://www.learnlifecycle.com/student_certificates/le20shjbnc">le20shjbnc</a></li>
                     <li>Life Cycle Thinking in Business Decision Making, United Nations Environment Programme (UNEP)
-                        Credential ID: <a href="">atbbzsza5t</a></li>
+                        Credential ID: <a href="https://www.learnlifecycle.com/student_certificates/atbbzsza5t">atbbzsza5t</a></li>
                     <li>Life Cycle Thinking in Policy Making, United Nations Environment Programme (UNEP)
-                        Credential ID: <a href="">emgspz0m2s</a></li>
+                        Credential ID: <a href="https://www.learnlifecycle.com/student_certificates/emgspz0m2s">emgspz0m2s</a></li>
                     <li>Machine Learning, NPTEL
-                        Credential ID: <a href="">NPTEL19CS35S61100138191205070</a></li>
+                        Credential ID: <a href="http://nptel.ac.in/noc/social_cert/noc19-cs35/NPTEL19CS35S61100138191205070.jpg">NPTEL19CS35S61100138191205070</a></li>
                     <li>Business Analytics and Data Mining Modelling Using R, NPTEL
-                        Credential ID: <a href="">NPTEL18MG34S210901481810088811</a></li>
+                        Credential ID: <a href="https://nptel.ac.in/noc/social_cert/noc18-mg34/NPTEL18MG34S210901481810088811.jpg">NPTEL18MG34S210901481810088811</a></li>
                 </ul>
             </section>
         </div>

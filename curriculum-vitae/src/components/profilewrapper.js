@@ -18,12 +18,12 @@ function ProfileHolder() {
         </div>
         <ul id="navlist">
           <li>
-            <a href="https://www.facebook.com/" aria-label="Facebook">
+            <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&hl=en&user=OrQgY-YAAAAJ&authuser=2" aria-label="Scholar">
               <Icon.MortarboardFill className='bi'/>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/aditya-chidepatil-a7b543152/" aria-label="LinkedIn">
             <Icon.Linkedin className='bi'/>
             </a>
           </li>
